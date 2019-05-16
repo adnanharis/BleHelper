@@ -1,2 +1,2 @@
 # BleHelperDroid
-Android app for scanning all the nearby BLE packets
+Android app for scanning all the nearby BLE packets by taking care of Android OS from v18 to onwards... 
