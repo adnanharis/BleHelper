@@ -1,0 +1,8 @@
+build/
+libs/
+.idea/
+.gradle/
+.DS_Store
+*.iml
+local.properties
+seeds.txt
